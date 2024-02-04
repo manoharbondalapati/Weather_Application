@@ -1,0 +1,15 @@
+.report img
+{
+    height: 90px;
+    width: 80px;
+}
+.main
+{
+    max-width: 400px;
+}
+.container
+{
+ 
+    background-color: red;
+    text-align: center;
+}
